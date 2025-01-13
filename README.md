@@ -1,6 +1,9 @@
 Implementation of ucc vqe using cirq and openfermion
 - [x] get hamiltonian
-- [ ] get uccsd ansatz
+- [x] get uccsd ansatz
 - [x] get  energy
-- [ ] get  gradient
-- [ ] optimization
+- [x] get  gradient
+- [x] optimization
+- [ ] parallel
+- [ ]  efficient calcualte gradient
+- [ ]  data type
